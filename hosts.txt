@@ -1,0 +1,4 @@
+# block list for fool child
+0.0.0.0 plus.google.com
+0.0.0.0 twitter.com
+0.0.0.0 facebook.com
