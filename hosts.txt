@@ -1040,6 +1040,7 @@
 0.0.0.0 static.twitter.com
 0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 staticxx.facebook.com
+0.0.0.0 store.line.me
 0.0.0.0 support.twitter.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 td.twitter.com
