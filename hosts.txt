@@ -796,7 +796,6 @@
 0.0.0.0 messages-facebook.com
 0.0.0.0 messages.myspace.com
 0.0.0.0 mobile.twitter.com
-0.0.0.0 mobile.twitter.com
 0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 mqtt.c10r.facebook.com
 0.0.0.0 mqtt.facebook.com
@@ -1046,6 +1045,7 @@
 0.0.0.0 td.twitter.com
 0.0.0.0 telegraph-ash.instagram.com
 0.0.0.0 touch.facebook.com
+0.0.0.0 touch.pixiv.net
 0.0.0.0 trk.pinterest.com
 0.0.0.0 tumblr.com
 0.0.0.0 twitter.co.jp
